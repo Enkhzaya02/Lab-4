@@ -1,0 +1,64 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Architects+Daughter&family=Ephesis&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+#header{
+    font-family: 'Lobster', cursive;
+    border-radius: 15px;
+    color:white; 
+    background-color: darkgoldenrod; 
+    font-size: x-large;
+    padding-left: 10px; 
+    padding-right: 10px; 
+    padding-top: 20px; 
+    padding-bottom: 20px
+}
+
+#firstsidebar{
+    color: black; 
+    background-color: cornflowerblue; 
+    padding-bottom: 50px; 
+    padding-top: 50px; 
+    padding-left: 15px; 
+    padding-right: 15px;
+}
+
+#main{
+    font-family: 'Architects Daughter', cursive ;
+    color: white; 
+    background-color: orangered; 
+    opacity: 0.7 ;
+    font-size: x-large; 
+    font-style: normal;  
+    padding-top: 10px ;
+    padding-bottom: 10px;
+}
+
+#secondsidebar{
+    color: white; 
+    background-color: lightseagreen; 
+    opacity: 0,7 ;
+    padding-bottom: 20px; 
+    padding-top: 20px; 
+    padding-right: 20px; 
+    padding-left: 5px;
+}
+
+#subtext{
+    font-style: italic;
+}
+
+#footer{ 
+    color: black; 
+    background-color: grey; 
+    text-align: right; 
+} 
+
+table{
+    width: 70%;
+    margin: 0 auto;
+}
+
+span{
+    margin: 20px;
+}
